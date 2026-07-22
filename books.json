@@ -28,3 +28,16 @@
   }
 ]
 
+[
+  {
+    "id": "1",
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "rate": "4.8",
+    "category": "تنمية ذاتية",
+    "badge": "الأكثر قراءة",
+    "progress": 0,
+    "coverUrl": "https://raw.githubusercontent.com/YourUser/YourRepo/main/covers/book1.jpg",
+    "contentUrl": "https://raw.githubusercontent.com/YourUser/YourRepo/main/books/book1.txt"
+  }
+]
